@@ -27,5 +27,4 @@ Total Fare by City Type =
 
 ## Summary
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
 The CEO of V. Isualize has a few opportunities based on the following data. There are opportunities to expand the business in a rural and suburban cities and provide jobs by hiring drivers. In the Urban cities there are opportunities to expand rides and in the Rural cities there is opportunity to expand fares by city type. 
